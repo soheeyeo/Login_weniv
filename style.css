@@ -1,10 +1,10 @@
-@import url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SpoqaHanSansNeo-Regular.woff') format('woff');
+@import url('https://spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css');
 
 body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'SpoqaHanSansNeo-Regular';
+    font-family: "Spoqa Han Sans Neo", "sans-serif";
     font-size: 12px;
     line-height: 15px;
     position: relative;
